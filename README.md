@@ -21,12 +21,6 @@ With its 860M UNet and 123M text encoder, the model is relatively lightweight an
 See [this section](#stable-diffusion-v1) below and the [model card](https://huggingface.co/CompVis/stable-diffusion).
 
 
-## News
-
-- *2022-10-20* [v1.5 Text-to-Image Checkpoint](https://huggingface.co/runwayml/stable-diffusion-v1-5)
-- *2022-10-18* [Inpainting Model](#inpainting-with-stable-diffusion)
-![Inpainting Banner](assets/inpaintingbanner.png)
-
   
 ## Requirements
 A suitable [conda](https://conda.io/) environment named `ldm` can be created
